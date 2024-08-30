@@ -1,5 +1,4 @@
 # My Rules
-DOMAIN-SUFFIX,habr.com,PROXY
 DOMAIN-SUFFIX,zakutsky.com,DIRECT
 DOMAIN-SUFFIX,virossa.ru,DIRECT
 DOMAIN-SUFFIX,chip-expert.pro,DIRECT
