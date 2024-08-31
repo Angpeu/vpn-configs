@@ -1,4 +1,7 @@
 # My Rules
+
+DOMAIN-SUFFIX,skype.com,DIRECT
+DOMAIN-SUFFIX,zoom.com,DIRECT
 DOMAIN-SUFFIX,zakutsky.com,DIRECT
 DOMAIN-SUFFIX,chip-expert.pro,DIRECT
 DOMAIN-SUFFIX,cloudflare.com,DIRECT
